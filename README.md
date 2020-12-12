@@ -15,6 +15,6 @@ etc
 
 - 💬 Ask me about my projects
 
-- 📫 How to reach me: [Kamulegeya Fahad](www.linkedin.com/in/kamulegeya-fahad-a872b514a) 
+- 📫 How to reach me: [Kamulegeya Fahad](https://www.linkedin.com/in/kamulegeya-fahad-a872b514a) 
 
 - ⚡ Fun fact: Am wierd.
