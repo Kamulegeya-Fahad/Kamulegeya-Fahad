@@ -11,6 +11,7 @@
      - New programming languages,
  etc 
 
+
 - 🤔 I’m looking for collaborations in chromosome dynamics.
 
 - 💬 Ask me about my projects
