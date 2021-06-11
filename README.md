@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on the immunoglobulin heavy chain (Igh) locus
+- 🔭 I’m currently working on simulating chromatin dynamics
 
 - 🌱 I’m currently acquiring expertise in;
      - Analytical and computational techniques for polymer modeling,
