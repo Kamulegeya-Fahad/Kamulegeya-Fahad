@@ -2,20 +2,19 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 I’m currently working on simulating chromatin dynamics
+- 🔭 Currently, I am working on simulating chromatin dynamics.
 
-- 🌱 I’m currently acquiring expertise in;
+- 🌱 Concurrently, I am acquiring expertise in;
      - Analytical and computational techniques for polymer modeling,
      - Hi-C and Micro-C data analysis,
      - High-Performance Cluster operations,
+     - Machine learning in relation to biological applications,
      - New programming languages,
  etc 
 
 
-- 🤔 I’m looking for collaborations in chromosome dynamics.
+- 🤔 I am actively looking for collaborations in chromosome dynamics.
 
-- 💬 Ask me about my projects
-
-- 📫 How to reach me: [Kamulegeya Fahad](https://www.linkedin.com/in/kamulegeya-fahad-a872b514a) 
+- 📫 Reach me at : [Kamulegeya Fahad](https://www.linkedin.com/in/kamulegeya-fahad-a872b514a) and ask me about my projects.
 
 - ⚡ Fun fact: Am wierd.
