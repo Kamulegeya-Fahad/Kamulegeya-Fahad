@@ -15,8 +15,8 @@
 
 - 🤔 I am actively looking for collaborations in everything genomics.
 
-- 📫 Reach me at : [Kamulegeya Fahad](https://www.linkedin.com/in/kamulegeya-fahad-a872b514a) and ask me about my projects.
+- 📫 Reach me at : [Kamulegeya Fahad](https://www.linkedin.com/in/kamulegeya-fahad) and ask me about my projects.
 
 - You can visit my [personal website](https://kamulegeya-fahad.github.io) 
 
-- ⚡ Fun fact: Am wierd.
+- ⚡ Fun fact: Am Awesome.
