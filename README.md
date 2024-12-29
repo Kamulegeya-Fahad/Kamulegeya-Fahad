@@ -2,13 +2,15 @@
 
 - 😄 Pronouns: He/Him
 
-- 🔭 Currently, I am working on simulating chromatin dynamics.
+- 🔭 Currently, I am working on machine learning models for genome accessibility.
 
 - 🌱 Concurrently, I am acquiring expertise in;
+     - Neuroscience in the fly brain,
+     - Histone marks in the fly,
+     - High-Performance Cluster operations,
+     - Other machine learning applications in biological applications,
      - Analytical and computational techniques for polymer modeling,
      - Hi-C and Micro-C data analysis,
-     - High-Performance Cluster operations,
-     - Machine learning in relation to biological applications,
      - New programming languages,
  etc 
 
